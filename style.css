@@ -1,0 +1,23 @@
+.btn{
+  position:absolute;
+  top:50%;
+  left:50%;
+  padding:25px;
+  background-color:#8a96f0;
+ 
+}
+
+.abc{
+  position:absolute;
+  top:25%;
+  left:25%;
+  padding:13px;
+  text-color:#e2ea6c;
+ 
+}
+
+body{
+  height:100%;
+  width:100%;
+  background-color:gray;
+}
